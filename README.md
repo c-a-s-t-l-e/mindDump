@@ -35,6 +35,9 @@ These are:
 2. [The Journal Entry Processing Notebooks](model_notebook)
 3. [The mindDump Analyser Web App](web_app)
 
+
+!()[demo/images]
+
 ---
 
 ### Quesions About the Mobile App
