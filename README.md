@@ -36,7 +36,7 @@ These are:
 3. [The mindDump Analyser Web App](web_app)
 
 
-!()[demo/images]
+!()[demo/images/mindDumpProcess.png]
 
 ---
 
