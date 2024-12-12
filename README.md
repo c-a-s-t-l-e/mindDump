@@ -52,7 +52,7 @@ When originaly setting out to build the mobile app, my top two desires were:
 
 #### Why An ONNX Model?
 
-ONNX models are known for their (interoperability)[https://onnx.ai/index.html]. Something that is desirable if you want to share things with others.
+ONNX models are known for their [interoperability](https://onnx.ai/index.html). Something that is desirable if you want to share things with others.
 
 #### Does the Model Have Any Weaknesses?
 
@@ -72,4 +72,4 @@ Yes. The respective column names/format for the csv should consist of doc_id, da
 
 #### How Did You Manage To Get Free Web Hosting for The Web App?
 
-By using the shinylive package and Github Pages. This (guide)[https://github.com/RamiKrispin/shinylive-r] is pretty useful.
+By using the shinylive package and Github Pages. This [guide](https://github.com/RamiKrispin/shinylive-r) is pretty useful.
