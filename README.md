@@ -16,10 +16,20 @@ Essentially, there are two easy steps:
 ## mindDump's Purpose
 
 After a pretty big mind dump, there might be some handy stuff in there that you could
-recycle for other purposes like generating new project ideas and implementing new 
-strategies for the week. 
+recycle for other purposes like figuring out what makes us tick.
 
 Sometimes you can get a lot of it yourself, but wouldn't it be nice to have
 a handy-dandy tool to help you as well?
 
 mindDump's that tool!
+
+## What Does This Project Entail?
+
+There are three separable, mostly independent components to this project that are meant to be modified by the user.
+
+These are:
+
+1. The mindDump Android App
+2. The Journal Entry Processing Notebooks
+3. The mindDump Analyser Web App
+
