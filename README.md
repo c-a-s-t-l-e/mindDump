@@ -36,7 +36,7 @@ These are:
 3. [The mindDump Analyser Web App](web_app)
 
 
-!()[(http://mindDump/demo/images/mindDumpProcess.png]
+![mindDump/demo/images/mindDumpProcess.png](https://github.com/c-a-s-t-l-e/mindDump/blob/main/demo/images/mindDumpProcess.png)]
 
 ---
 
