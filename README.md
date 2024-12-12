@@ -30,6 +30,6 @@ There are three separable, mostly independent components to this project that ar
 These are:
 
 1. [The mindDump Android App](android_app)
-2. The Journal Entry Processing Notebooks
-3. The mindDump Analyser Web App
+2. [The Journal Entry Processing Notebooks](model_notebook)
+3. [The mindDump Analyser Web App]()
 
