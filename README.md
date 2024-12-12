@@ -23,6 +23,8 @@ a handy-dandy tool to help you as well?
 
 mindDump's that tool!
 
+Other potential use-cases for this tool include clinical settings that involve social workers and therapists and their respective customers/patients.
+
 ---
 
 ## What Does This Project Entail?
