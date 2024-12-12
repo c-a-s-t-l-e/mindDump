@@ -63,7 +63,7 @@ ONNX models are known for their [interoperability](https://onnx.ai/index.html). 
 
 #### Does the Model Have Any Weaknesses?
 
-Yes. The model has been fine-tuned on the Go Emotions dataset. After quite a bit of user testing, it appears that there may be some mislabeling in the training data among other issues. These then affect the model's performance on our parsed journal entries.
+Yes. The model has been fine-tuned on the [Go Emotions dataset](https://datasetsearch.research.google.com/search?src=0&query=go%20emotions&docid=L2cvMTF3M3FzbHEzcA%3D%3D). After quite a bit of user testing, it appears that there may be some mislabeling in the training data among other issues. These then affect the model's performance on our parsed journal entries.
 
 #### Is There a Specific Reason Why You Process the Journal Entry Texts The Way You Decided To?
 
