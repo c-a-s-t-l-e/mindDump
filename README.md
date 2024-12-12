@@ -1,6 +1,6 @@
 # mindDump
 
-Journals and planning are important... so why not make things easier for yourself?
+Journals are important... so why not make things easier for yourself?
 
 ## What's a "Mind Dump"?
 
