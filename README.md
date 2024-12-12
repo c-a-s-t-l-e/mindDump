@@ -51,7 +51,7 @@ When originaly setting out to build the mobile app, my top two desires were:
 
 #### How Is The Mobile App Connected To Your Laptop?
 
-I used [syncthing](https://syncthing.net), an open-source, central serverless continuous file synchronization program that allows you sync two or more devices' files together without any cloud services.
+I used [syncthing](https://syncthing.net), an open-source, central serverless continuous file synchronization program that allows you to sync two or more devices' folders together without having to use any cloud services.
 
 ---
 
