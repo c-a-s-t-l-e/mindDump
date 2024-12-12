@@ -46,8 +46,12 @@ These are:
 
 When originaly setting out to build the mobile app, my top two desires were:
 
-1. No spellcheck so that way somebody who's dumping their mind won't be bothered to correct their typos.
+1. No spell-check so that way somebody who's dumping their mind won't be bothered to correct their typos.
 2. Bare minimum aesthetics so that way (once again) there's no distractions when typing down your thoughts.
+
+#### How Is The Mobile App Connected To Your Laptop?
+
+I used [syncthing](https://syncthing.net), an open-source, central serverless continuous file synchronization program that allows you sync two or more devices' files together without any cloud services.
 
 ---
 
