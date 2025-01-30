@@ -15,7 +15,7 @@ Essentially, there are two easy steps:
 
 ## mindDump's Purpose
 
-After a pretty big mind dump, there might be some handy stuff in there that you could
+After a mind dump, there might be some handy stuff in there that you could
 recycle for other purposes like figuring out what makes us tick.
 
 Sometimes you can get a lot of it yourself, but wouldn't it be nice to have
